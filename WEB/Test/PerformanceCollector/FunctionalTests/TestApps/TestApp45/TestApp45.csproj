@@ -140,10 +140,6 @@
     <Folder Include="App_Data\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\..\..\..\BASE\src\Microsoft.ApplicationInsights\Microsoft.ApplicationInsights.csproj">
-      <Project>{6d3a5a2f-e594-488b-bb4e-93fa0efba1e6}</Project>
-      <Name>Microsoft.ApplicationInsights</Name>
-    </ProjectReference>
     <ProjectReference Include="..\..\..\..\..\..\BASE\src\ServerTelemetryChannel\TelemetryChannel.csproj">
       <Project>{bcbb6bd4-90cd-452e-81aa-c54b7f941053}</Project>
       <Name>TelemetryChannel</Name>
